@@ -294,11 +294,6 @@ class _HomePageState extends State<HomePage> {
                   width: double.infinity,
                   alignment: Alignment.center,
                   color: const Color(0xffFB1555),
-                  // decoration: BoxDecoration(
-                  //     color: Color(0xffFB1555),
-                  //     borderRadius: BorderRadius.only(
-                  //         bottomLeft: Radius.circular(15),
-                  //         bottomRight: Radius.circular(15))),
                   child: const Text(
                     "CALCULATE",
                     textAlign: TextAlign.center,
